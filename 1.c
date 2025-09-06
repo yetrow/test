@@ -18,3 +18,6 @@ void simple()
 
 void simple();
 
+
+
+void Insert();
