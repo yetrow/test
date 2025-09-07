@@ -21,3 +21,10 @@ void simple();
 
 
 void Insert();
+
+
+int get_max(int a, int b)
+{
+    // 使用三元运算符返回两个整数中的较大值
+    return (a > b) ? a : b;
+}
